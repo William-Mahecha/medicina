@@ -1,0 +1,254 @@
+<resources>
+    <string name="app_name">Accompanying caregivers</string>
+    <string name="start">Start</string>
+    <string name="nav_header_title"><b>PROGRAMA EDUCATIVO ACOMPAÑANDO A LOS CUIDADORES</b></string>
+    <string name="nav_header_title2"><b>UNIVERSIDAD DE LOS LLANOS \nFACULTAD CIENCIA DE LA SALUD \nPROGRAMA DE ENFEMERÍA \n2019- PA II</b></string>
+
+    <string name="manual">IMPORTANCIA DEL MANUAL</string>
+    <string name="manos">LAVADO DE MANOS</string>
+    <string name="lesiones">LESIONES MUSCULARES</string>
+    <string name="estres_adaptacion">ESTRES Y ADAPTACION</string>
+    <string name="problemas_movilidad">PROBLEMAS DE MOVILIDAD</string>
+    <string name="referencias">REFERENCIAS</string>
+    <string name="duelo">PERDIDA Y DUELO</string>
+    <string name="videos">VIDEOS</string>
+
+    <string name="title_manual">Importancia del manual</string>
+    <string name="text_manual">ACOMPAÑANDO A LOS CUIDADADORES es un programa educativo creado por
+        docentes del Programa Enfermería de la universidad de los llanos, diseñado para acompañar
+        al cuidador informal en su labor cotidiana de cuidar a personas con enfermedad crónica,
+        que genera algún  grado de dependencia. \n
+        El programa acompañando  a los cuidadores, fortalece las habilidades de autocuidado del
+        cuidador informal, con el e mejorar su rol en la asistencia de la enfermedad de larga
+        duración que no cuenta con tratamiento especifico, pero que requiere de cuidados diarios
+        y gran dedicación durante el curso de la enfermedad. Así mismo esta aplicación va orienta
+        hacia el manejo de la estrategia que ayuden a mantener un nivel adecuado de bienestar y de
+        calidad de vida de pacientes y familias en situación de cronicidad.
+    </string>
+    <string name="text_manual2"><b>¿Quien es el cuidador informal? </b>\n\n
+        Se denominan cuidadores informales a las personas que realizan la tarea de cuidado de personas
+        enfermas, con discapacidad que no pueden realizar su actividades de la vida diaria
+        (aseo, alimentación, movilidad, vestirse) administración de tratamientos o acudir a los
+        servicios de salud, entre otras. \n\n
+    </string>
+
+    <string name="text_manual3">Teniendo en cuenta la problemática que enfrentan los cuidadores informales de la región,
+        la Universidad de los llanos cuenta con el programa “Acompañando a los Cuidadores”,
+        el cual se desarrolla una vez por semestre y no tiene costo. Usted puede acceder al
+        programa comunicándose con: \n\n
+        <b>
+            Correo electrónico: eromero@unillanos.edu.co \n
+            Docente: Esperanza Romero González \n
+            Clara Roció Galvis \n
+            Docente cgalvis@unillanos.edu.co
+        </b>
+    </string>
+
+    <string name="title_lavado_manos">What is hand washing?</string>
+    <string name="lavado_manos">
+        It is the way in which human beings remove dirt or eliminate bacteria from their
+        hands, by rubbing between them and soap.
+    </string>
+    <string name="dato">DID YOU KNOW?</string>
+    <string name="datos">
+        There are 5 mistakes we make when washing our hands \n\n
+        1. More soap, more bacteria. \n
+        2.  El uso de guantes no exime del lavado de manos. \n
+        3.Dry hands, hands free of risks. \n
+        4.Los anillos son focos de infección. \n
+        5. Hands wash with soap, not with dishwasher. \n
+    </string>
+
+    <!--    POSTURA DE GUANTES      -->
+    <string name="title_guantes">POSTURA DE GUANTES DE MANEJO</string>
+    <string name="text_guantes">
+        Los guantes se denominan equipos de protección personal por ello crean una barrera entre
+        los microbios y las manos. Utilizar guantes ayuda a proteger de infecciones tanto a los
+        pacientes como del trabajador.
+    </string>
+    <string name="text_guantes2">
+        1.Antes de la postura se debe lavar las manos, colocarse los guantes de manejo, en ambas
+        manos, después de terminar el procedimiento retirar. \n
+        2. Para retirar el guante: Retirar el primer guante sin tener contanto con le piel de la
+        mano, tome el borde por la cara externa de la vuelta completamente el guante.
+        Para retirar el segundo guante, tóme el primer guante en la mano que se tiene el guante aun
+        puesto, haga un puño la mano sin guantes introduce los dedos dentro del guante sin tener
+        contacto con fluidos  dando la vuelta completamente al guante y deseche en caneca roja.
+        Lave las manos después de que se retire los guantes y seque.
+    </string>
+
+    <!--    LESIONES MUSCULARES      -->
+    <string name="title_lesiones_musculares2">CUIDADOS BÁSICOS PARA  LA PREVENCIÓN DE LESIONES MUSCULARES</string>
+    <string name="lesiones_musculares2">La manipulación manual de cargas y por tanto la movilización
+        manual de pacientes, es responsable, en muchos casos, de la aparición de fatiga física e
+        incluso de lesiones que se pueden producir de una forma inmediata o por la acumulación de
+        pequeños traumatismos aparentemente sin importancia.
+    </string>
+    <string name="title_lesiones_musculares">What is body mechanics?</string>
+    <string name="lesiones_musculares">Body mechanics is the efficient way to manage and control our body to be able to perform a work of strength, balance or movement.</string>
+    <string name="datos_lesiones">Body mechanics has only three basic elements. \n\n
+        1. Body alignment (posture).\n
+        2. Balance (stability).\n
+        3. coordinated body movement\n
+    </string>
+    <string name="datos_lesiones2">Principios de la mecanica corporal </string>
+    <string name="datos_lesiones3">
+        <b>1.</b> Colocarse cada persona a un lado de la cama, frente al enfermo \n
+        <b>2.</b> Debemos colocar los pies separados así como las rodillas ligeramente flexionadas \n
+        <b>3.</b> Retirar la ropa superior de la cama así como la almohada del paciente \n
+        <b>4.</b> Introducir un brazo por debajo del hombro del paciente y el otro debajo del muslo.
+        Sujetan al paciente y lo levantan con cuidado hasta llevarlo a la posición deseada
+    </string>
+
+    <!--TODO SOBRE EL ESTRES-->
+    <string name="title_estres">¿Qué es el Estrés?</string>
+    <string name="estres">
+        El estrés es considerado como un sentimiento que causa tensión física, mental y emocional. \n
+        El estrés es una reacción de desafío y demanda , por lo consiguiente cuando se tiene
+        pequeños episodios de estrés pueden no afectar y ser positivo, ya que ayuda al ser humano
+        ponerse en alerta y así evitar el peligro o reaccionar de manera oportuna ante una situación.
+    </string>
+    <string name="title_estres2">Estrés permanente </string>
+    <string name="estres2">
+        Al cuerpo reaccionar ante el estrés, mantiene en alerta permanentemente y al suceder de
+        manera sucesiva puede generar que el pulso se aumente y que los músculos se tensionen,
+        haciendo que genere problemas de salud incluyendo: \n
+        .   Presión arterial alta \n
+        .   Insuficiencia cardiaca \n
+        .   Diabetes \n
+        .   Obesidad \n
+        .   Depresión o ansiedad \n
+        .   Problemas de la piel, como acné o eczema. \n
+        .   Problemas menstruales. \n
+    </string>
+    <string name="title_estres3">¿Como mejorar el estrés?</string>
+    <string name="estres3">
+        Al cuerpo reaccionar ante el estrés, mantiene en alerta permanentemente y al suceder de
+        manera sucesiva puede generar que el pulso se aumente y que los músculos se tensionen,
+        haciendo que genere problemas de salud incluyendo: \n
+        .   Presión arterial alta \n
+        .   Insuficiencia cardiaca \n
+        .   Diabetes \n
+        .   Obesidad \n
+        .   Depresión o ansiedad \n
+        .   Problemas de la piel, como acné o eczema. \n
+        .   Problemas menstruales. \n
+    </string>
+    <string name="paso1">Mejore su alimentación.</string>
+    <string name="paso2">Fomente actividad física.</string>
+    <string name="paso3">Tome tiempo para usted.</string>
+    <string name="paso4">Busque medios de relajación.</string>
+    <string name="paso5">Analice los beneficios de las actividades que realiza.</string>
+    <string name="paso6">Implemente la comunicación asertiva</string>
+    <string name="paso7">Evite situación estresantes</string>
+
+    <!--    PROBLEMAS DE MOVILIDAD      -->
+    <string name="title_movilidad">¿Qué son las lesiones de la piel?</string>
+    <string name="movilidad">
+        Las lesiones en la piel se consideran heridas o ulceras causas por descuido hacia el
+        cuidado del paciente, ya sea por presencia de humedad, por tener una misma posición
+        por un tiempo prolongado, etc.
+    </string>
+    <string name="datos_movilidad">
+        .   Hay estadios que determinan  o clasifican la integridad de la piel del paciente. \n
+        .   Las lesiones de la piel se pueden prevenir. \n
+        .   La mayoría de lesiones de la piel de un paciente es descuido. \n
+        .   Los masajes permiten estimular la piel y mejorar el riego sanguíneo. \n
+        .   Los anillos son peligroso. \n
+        .   La nutrición y la movilización permite prevenir lesiones en la piel \n
+    </string>
+    <string name="title_movilidad2">¿Cómo se clasifican las ulceras por presión?</string>
+    <string name="movilidad2">
+        .   Estadio I: Piel roja (eritema), con induración y calor local, pero no está rota la
+        barrera cutánea y se mantiene la integridad de la piel. \n
+        .   Estadio II: Úlcera superficial que tiene el aspecto de erosiones, ampollas y/o
+        desgarros superficiales. \n
+        .   Estadio III: Pérdida total del grosor de la piel que implica lesión o necrosis del
+        tejido subcutáneo y que puede extenderse hacia la profundidad, pero sin llegar a afectar
+        a los músculos. \n
+        .   Estadio IV: Pérdida total del grosor de la piel con destrucción extensa, necrosis del
+        tejido o lesión en músculo y huesos. En este estadío las lesiones pueden presentarse
+        con cavernas y túneles. \n
+    </string>
+
+
+    <!--    DUELO      -->
+    <string name="title_duelo">Perdida y duelo</string>
+    <string name="text_duelo">
+        Las personas en algún momento de sus vidas pueden experimentar  perdida y verse rodeado de
+        situaciones que nunca imaginaron que sucedería. Por ello es importante algunos elementos
+        para identificar los sentimientos, pensamientos y comportamientos naturales que se pueden
+        presentar cuando hay una perdida.
+    </string>
+    <string name="text_duelo2">
+        <b>DUELO:</b> es la pérdida de una persona, animal, objeto o evento significativo, es la respuesta
+        normal y saludable de una persona frente a una pérdida. Caracteriza las emociones que
+        siente cuando pierde a alguien o algo importante para usted. \n\n
+
+        Las personas se afligen por muchas razones diferentes, que incluyen:\n
+
+        .   La muerte de un ser querido, incluidas las mascotas.\n
+        .   El divorcio o los cambios en una relación, incluidas las amistades.\n
+        .   Los cambios en su salud o en la salud de un ser querido.\n
+        .   La pérdida de un trabajo o los cambios en su seguridad financiera.\n
+        .   Los cambios en su estilo de vida, como durante la jubilación o al mudarse a un nuevo lugar.\n
+    </string>
+    <string name="title_duelo2">Proceso del duelo</string>
+    <string name="text_duelo3">Quienes atravesamos por un proceso de duelo transitan por una serie
+        de etapas o vivencias comunes, aunque cada una se caracteriza por una amplia variedad de
+        respuestas humanas. Las reacciones que se presentan en cada una de las etapas son
+        totalmente normales y esperables
+    </string>
+
+    <string name="referencia">
+        <b>LAVADO MANOS</b>\n
+        <u> <![CDATA[
+         https://www.google.com/search?rlz=1C1CHBF_esCO858CO858&biw=1366&bih=657&tbm=isch&sa=1&ei=
+        8P0sXvygBMOP5wK_mLWIAQ&q=LAVADO+DE+MANOS+STICKER&oq=LAVADO+DE+MANOS+STICKER&gs_l=img.3…
+        447937.450706..450917...1.0..0.239.2833.5j21j1......0....1..gws-wiz-img.....0..0i8i30j0i13
+        1j0j0i3j0i67.SziKrzLwra8&ved=0ahUKEwj82KGuoKDnAhXDx1kKHT9MDREQ4dUDCAc&uact=5#imgrc=zd7-IlM
+        eqdqJM: ]]> </u> \n\n
+        <u><![CDATA[
+        https://www.lne.es/vida-y-estilo/salud/2015/05/05/cinco-claves-cuidar-manos/1751725.html
+        ]]> </u>\n\n
+        <u><![CDATA[
+        https://www.google.com/search?q=lavado+de+manos+pasos+oms&rlz=1C1CHBF_esCO858CO858&source=
+        lnms&tbm=isch&sa=X&ved=2ahUKEwjA_ePLpqDnAhWurFkKHflQBi8Q_AUoAXoECA0QAw&biw=1366&bih=657#
+        imgrc=VMk7EWAsWGpWnM:
+        ]]></u>\n\n
+        <u><![CDATA[
+        https://www.saludcastillayleon.es/HSReyesAranda/es/calidad/lavado-higienico-manos
+        ]]></u>\n\n
+
+        <b>LESIONES MUSCULARES</b> \n
+        <u> <![CDATA[
+        http://www.comguada.es/principios-de-mecanica-corporal/
+        ]]> </u>\n\n
+        <u><![CDATA[
+        https://chatsticker.com/sticker/daily-life-of-nurse-1/387226
+        ]]> </u>\n\n
+        <u><![CDATA[
+        http://www.auxiliar-enfermeria.com/movilizaciones.htm
+        ]]> </u>\n\n
+
+        <b>ESTRES Y ADAPTACIÓN</b> \n
+        <u> <![CDATA[
+        https://medlineplus.gov/spanish/ency/article/003211.htm
+        ]]> </u>\n\n
+        <u> <![CDATA[
+        https://www.google.com/search?q=numeros&rlz=1C1CHBF_esCO858CO858&source=lnms&tbm=isch&sa=
+        X&ved=2ahUKEwi6vZuznaDnAhVRw1kKHSiWBggQ_AUoAXoECA0QAw&biw=578&bih=627#imgrc=in9t8BJ26D0cxM:
+        ]]> </u>\n\n
+
+        <b>PROBLEMAS DE MOVILIDAD</b> \n
+        <u> <![CDATA[
+        http://www.scielo.org.co/pdf/rfmun/v64n2/v64n2a08.pdf
+        ]]> </u>\n\n
+        <u> <![CDATA[
+        https://chatsticker.com/sticker/nurse-angel-vs-nurse-devil-1/278743
+        ]]> </u>\n\n
+        <u> <![CDATA[
+        http://www.igerontologico.com/salud/sindromes-geriatricos/ulceras-presion-6439.htm
+        ]]> </u>
+    </string>
+</resources>
